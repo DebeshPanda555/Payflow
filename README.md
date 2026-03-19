@@ -111,6 +111,22 @@ Realtime Layer (Socket.io)
 - Neon PostgreSQL
 
 ---
+🎯 What Makes This Project Special?
+	•	Real-world fintech system simulation
+	•	Combines full-stack + real-time + security
+	•	Supports multiple payment methods
+	•	Designed with scalable architecture
+	•	Production-ready deployment
+
+⸻
+
+👨‍💻 Author
+
+Debesh Kumar Panda
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/debesh-kumar-panda-4a299a273
+
 
 ## ⚙️ Installation & Setup
 
@@ -120,3 +136,11 @@ git clone https://github.com/DebeshPanda555/payflow-frontend
 
 # Clone Backend
 git clone https://github.com/DebeshPanda555/payflow-backend
+
+
+
+
+
+
+
+
