@@ -29,14 +29,9 @@ The platform includes real-time transaction updates, analytics dashboards, and a
 ---
 
 ## 🏗️ System Architecture
-Frontend (Next.js)
-↓
-Backend API (Node.js + Express)
-↓
-Database (PostgreSQL)
-↓
-Realtime Layer (Socket.io)
----
+<p align="center">
+  <img src="./architecture.png" alt="Architecture" width="800"/>
+</p>
 
 ## 🔗 Project Repositories
 
