@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💸 PayFlow – Full Stack Digital Wallet System
+# PayFlow – Full Stack Digital Wallet System
 
 Your modern digital payment solution enabling seamless transactions with real-time updates and secure authentication.
 
@@ -14,13 +14,13 @@ Your modern digital payment solution enabling seamless transactions with real-ti
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 👉 https://payflow-frontend-ten.vercel.app/
 
 ---
 
-## 📌 About the Project
+## About the Project
 
 **PayFlow** is a full-stack fintech application designed to simulate real-world digital payment systems. It allows users to securely send, receive, and request money using multiple identifiers such as email, mobile number, UPI ID, and QR codes.
 
@@ -28,7 +28,7 @@ The platform includes real-time transaction updates, analytics dashboards, and a
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 <p align="center">
   <img src="./architechture.png" alt="Architecture" width="800"/>
 </p>
