@@ -30,7 +30,7 @@ The platform includes real-time transaction updates, analytics dashboards, and a
 
 ## 🏗️ System Architecture
 <p align="center">
-  <img src="./architecture.png" alt="Architecture" width="800"/>
+  <img src="./architechture.png" alt="Architecture" width="800"/>
 </p>
 
 ## 🔗 Project Repositories
